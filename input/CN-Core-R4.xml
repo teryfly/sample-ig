@@ -8,8 +8,8 @@
   <url value="https://www.hl7fhir.cn/ig/CN-Core-R4"/>
   <!-- 此实施指南的版本。除非指定了 "propagate-version" 扩展元素，否则所有引用资源都将继承此版本号 -->
   <version value="0.2.0"/>
-  <name value="CN Core Implementation Guide（Organization）"/>
-  <title value="中国核心实施指南（组织机构）"/>
+  <name value="CN Core Implementation Guide"/>
+  <title value="中国核心实施指南"/>
   <status value="draft"/>
   <experimental value="true"/>
   <publisher value="HL7FHIR.CN" />
@@ -160,6 +160,10 @@
         <title value="核心规范"/>
         <generation value="markdown"/>
       </page>
+	   <page>
+        <nameUrl value="artifacts.html"/>
+        <title value="核心定义"/>
+        <generation value="html"/>
       <page>
         <nameUrl value="downloads.html"/>
         <title value="下载"/>

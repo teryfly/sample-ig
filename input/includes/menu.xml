@@ -1,37 +1,49 @@
 <ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
-  <li><a href="index.html">IG Home</a></li>
-  <li><a href="toc.html">Table of Contents</a></li>
+  <li><a href="index.html">首页</a></li>
+  <li><a href="toc.html">目录</a></li>
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">MyIg Background<b class="caret">
+    <a data-toggle="dropdown" href="#" class="dropdown-toggle">场景<b class="caret">
       </b>
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a href="background.html">Background</a>
+        <a href="background.html">公卫场景</a>
       </li>
     </ul>
   </li>
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Specification<b class="caret">
+    <a data-toggle="dropdown" href="#" class="dropdown-toggle">规范集<b class="caret">
       </b>
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a href="spec.html">Detailed Specification</a>
+        <a href="spec.html">核心规范</a>
       </li>
     </ul>
   </li>
-  <li><a href="artifacts.html">Artifact Index</a></li>
+  <li><a href="artifacts.html">核心定义</a></li>
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Support<b class="caret">
+    <a data-toggle="dropdown" href="#" class="dropdown-toggle">支持<b class="caret">
       </b>
     </a>
     <ul class="dropdown-menu">
       <li>
-        <a target="_blank" href="{{site.data.fhir.path}}index.html">FHIR Spec <img src="external.png" style="text-align: baseline"/></a>
+        <a target="_blank" href="http://hl7fhir.cn">FHIR中文版 <img src="external.png"/></a>
+      </li>
+	   <li>
+        <a target="_blank" href="http://terminology.hl7fhir.cn/">术语中心 <img src="external.png"/></a>
+      </li>
+	  <li>
+        <a target="_blank" href="http://fhir.press:35000/">企标注册 <img src="external.png"/></a>
+      </li>
+	   <li>
+        <a target="_blank" href="http://fhir.plus">FHIR+统一认证 <img src="external.png"/></a>
+      </li>
+	  <li>
+        <a target="_blank" href="http://fhir.store">FHIR应用市场 <img src="external.png"/></a>
       </li>
       <li>
-        <a href="downloads.html">Downloads</a>
+        <a href="downloads.html">下载</a>
       </li>
     </ul>
   </li>

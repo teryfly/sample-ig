@@ -160,6 +160,11 @@
         <title value="核心规范"/>
         <generation value="markdown"/>
       </page>
+	  <page>
+        <nameUrl value="artifacts.html"/>
+        <title value="核心定义"/>
+        <generation value="html"/>
+		 </page>
       <page>
         <nameUrl value="downloads.html"/>
         <title value="下载"/>

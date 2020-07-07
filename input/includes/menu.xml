@@ -21,7 +21,23 @@
       </li>
     </ul>
   </li>
-  <li><a href="artifacts.html">核心定义</a></li>
+  
+    <li class="dropdown">
+    <a data-toggle="dropdown" href="#" class="dropdown-toggle">核心定义<b class="caret">
+      </b>
+    </a>
+    <ul class="dropdown-menu">
+	 <li><a href="artifacts.html"></a>全部定义</li>
+	  <li>
+        <a href="profiles.html">资源结构与扩展</a>
+      </li>
+      <li>
+        <a href="terminology.html">术语编码</a>
+      </li>
+    </ul>
+  </li>
+  
+ 
   <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">支持<b class="caret">
       </b>

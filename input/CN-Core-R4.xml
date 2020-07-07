@@ -160,11 +160,7 @@
         <title value="核心规范"/>
         <generation value="markdown"/>
       </page>
-	  <page>
-        <nameUrl value="terminology.html"/>
-        <title value="术语编码"/>
-        <generation value="markdown"/>
-	</page>
+
      
 	
       <page>

@@ -22,6 +22,4 @@ The following [Extensions]({{site.data.fhir.path}}extensibility.html) have been 
 {% include list-simple-extensions.xhtml %}
 
 
-{% include link-list.md %}
-
 <br />

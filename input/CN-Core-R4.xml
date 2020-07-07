@@ -164,13 +164,13 @@
         <nameUrl value="terminology.html"/>
         <title value="术语编码"/>
         <generation value="markdown"/>
-		 </page>
-      <page>
-	    <page>
+	</page>
+     
+	  <page>
         <nameUrl value="profliles.html"/>
         <title value="资源结构与扩展"/>
         <generation value="markdown"/>
-		 </page>
+	</page>
       <page>
         <nameUrl value="downloads.html"/>
         <title value="下载"/>

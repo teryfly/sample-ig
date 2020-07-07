@@ -27,7 +27,7 @@
       </b>
     </a>
     <ul class="dropdown-menu">
-	 <li><a href="artifacts.html"></a>全部定义</li>
+	 <li><a href="artifacts.html">全部定义</a></li>
 	  <li>
         <a href="profiles.html">资源结构与扩展</a>
       </li>

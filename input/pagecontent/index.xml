@@ -1,10 +1,16 @@
 <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
   <!-- The spaces between the open and close "a" tag are mandatory.  (Cuz HTML renderers are dumb...) -->
   <a name="intro"> </a>
-  <h3>Introduction</h3>
+  <h3>简介</h3>
 	<p>
-    What is this IG about (in patient/non-expert friendly terms).
+    中国核心实施指南在FHIR R4（第四版本）的基础上，定义了符合中国卫生信息标准要求的基础规范。本项目由中国HL7FHIR.CN发起，得到四川省卫生信息学会标准化专业委员会的大力支持。
+	
+	本指南主要从术语编码、资源结构、扩展三个方面对FHIR标准进行了中国化实现和扩展。其中术语编码将国家卫分健委发布的《WS 364-2011_卫生信息数据元值域代码》、《WS 365-2011 城乡居民健康档案基本数据集》、《WS 371-2012 基本信息基本数据集》、《WS 372-2012 疾病管理基本数据集》、《WS 373-2012 医疗服务基本数据集》、《WS 375-2012 疾病控制基本数据集》、《WS 445-2014 电子病历基本数据集》、《WS 573-2017 居民健康卡数据集》等行业标准中所有的CV/CT/MD等值域代码以及与卫生健康相关的国家GB级值域代码都以FHIR编码系统的形式进行了注册。
+	
+	在标准化委员会的指导下，内容将在未来版本中扩展，以满足中国卫生信息领域的需求。
+
   </p>
+
 	<a name="technical"> </a>
 	<h3>Technical Overview</h3>
 	<p>

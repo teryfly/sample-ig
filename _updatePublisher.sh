@@ -1,5 +1,5 @@
 #!/bin/bash
-dlurl=https://github.com/HL7/fhir-ig-publisher/releases/latest/download/publisher.jar
+dlurl=https://github.com/HL7China/fhir-ig-publisher/releases/latest/download/publisher.jar
 publisher_jar=publisher.jar
 input_cache_path=./input-cache/
 
